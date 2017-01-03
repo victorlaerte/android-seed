@@ -5,7 +5,7 @@ This project is under construction but it aims to provide all settings bellow:
 * Supports Android API 19 or newer
 * Gradle Build System
 * Material Design
-* Responsives Layout and 
+* Responsives Layout 
 * Android Support Library
 * Recycler View & SwipeRefreshLayout
 * Unit Tests
