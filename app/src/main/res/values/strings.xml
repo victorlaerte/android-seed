@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">SuperMarket</string>
+    <string name="title_item_detail">Item Detail</string>
+    <string name="action_sign_up">Sign up</string>
+    <string name="action_login">Login</string>
+    <string name="action_register">Register</string>
+    <string name="action_back">Back</string>
+    <string name="error">Error</string>
+    <string name="erro_no_internet_connection">There is no Internet Available</string>
+    <string name="error_invalid_credentials">Invalid user credentials</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="error_offline_mode">To use in offline mode, at least one online login is required</string>
+    <string name="error_cart_offline_mode">Cart is not available in offline mode</string>
+    <string name="error_unknown_error">Unknown Error</string>
+    <string name="error_contact_administrator">Please contact administrator</string>
+    <string name="error_sign_up">Sign Up Error.</string>
+    <string name="reason_colon">Reason:</string>
+    <string name="info">Info</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="prompt_name">Your full name</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="or">OR</string>
+    <string name="successful_sign_up">User %1$s added successfully at %2$s. Please sign in.</string>
+    <string name="logout">Logout</string>
+    <string name="cart">Cart</string>
+    <string name="item_added_to_cart">Item added to your cart</string>
+    <string name="currency_symbol">$</string>
+    <string name="price_colon">Price:</string>
+    <string name="description_colon">Description:</string>
+    <string name="search">Search</string>
+    <string name="filter_by">Filter by</string>
+    <string name="filter_no_filter">No Filter</string>
+    <string name="filter_bakery">Bakery</string>
+    <string name="filter_dairy">Dairy</string>
+    <string name="filter_fruit">Fruit</string>
+    <string name="filter_vegetable">Vegetable</string>
+    <string name="filter_meat">Meat</string>
+    <string name="cancel">Cancel</string>
+    <string name="checkout">Checkout</string>
+    <string name="checkout_done">Thanks for the purchase</string>
+    <string name="cart_empty">Your cart is empty</string>
+    <string name="adding_item_to_cart">adding to cart</string>
+    <string name="removing_item_from_cart">removing item from cart</string>
+
+</resources>
